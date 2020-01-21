@@ -42,7 +42,6 @@ namespace DoublyLinkedList
                 current = current.Prev;
             }
 
-            Console.WriteLine();
             return newHead;
         }
     }
