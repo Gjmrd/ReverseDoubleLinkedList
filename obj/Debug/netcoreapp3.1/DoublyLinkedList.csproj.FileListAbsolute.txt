@@ -1,0 +1,11 @@
+C:\Users\Xiaomi\source\repos\DoublyLinkedList\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.exe
+C:\Users\Xiaomi\source\repos\DoublyLinkedList\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.deps.json
+C:\Users\Xiaomi\source\repos\DoublyLinkedList\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.runtimeconfig.json
+C:\Users\Xiaomi\source\repos\DoublyLinkedList\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.runtimeconfig.dev.json
+C:\Users\Xiaomi\source\repos\DoublyLinkedList\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.dll
+C:\Users\Xiaomi\source\repos\DoublyLinkedList\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.pdb
+C:\Users\Xiaomi\source\repos\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.csprojAssemblyReference.cache
+C:\Users\Xiaomi\source\repos\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.AssemblyInfoInputs.cache
+C:\Users\Xiaomi\source\repos\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.AssemblyInfo.cs
+C:\Users\Xiaomi\source\repos\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.dll
+C:\Users\Xiaomi\source\repos\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.pdb
